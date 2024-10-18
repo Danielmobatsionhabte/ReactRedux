@@ -1,1 +1,2 @@
 ## Project URL : https://reactcartredux.netlify.app/
+This project demonstrates how I utilized Redux in a React-based shopping cart assignment. It showcases key Redux concepts like actions, reducers, and the store to efficiently manage the global state. With features such as dispatching actions for adding and removing items and selectors for retrieving cart data, this project highlights the power of Redux in creating predictable and scalable state management
